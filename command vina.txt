@@ -1,0 +1,2 @@
+vina.exe --config conf.txt --log log.txt
+vina_split --input out.pdbqt
